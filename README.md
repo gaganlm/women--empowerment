@@ -48,6 +48,7 @@ A full-stack web application built with *React + Vite, **Tailwind CSS, and **Sup
 - *Deployment*: Vercel (optional)
 
 ---
+You can view this project live in : https://womenempowermentfsd.netlify.app/
 
 ## 🧑‍💻 Getting Started
 
@@ -63,4 +64,3 @@ cd women-empowerment-app
 npm install
 npm run dev
 
-You can view this project live in : https://womenempowermentfsd.netlify.app/
